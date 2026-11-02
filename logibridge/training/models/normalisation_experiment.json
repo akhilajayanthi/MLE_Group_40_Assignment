@@ -1,0 +1,9 @@
+{
+  "accuracy_correct_stats": 1.0,
+  "accuracy_shifted_3sigma": 0.9824561403508771,
+  "per_class_recall_shifted": [
+    1.0,
+    0.9411764705882353,
+    1.0
+  ]
+}

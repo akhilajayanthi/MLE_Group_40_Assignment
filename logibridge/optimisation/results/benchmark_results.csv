@@ -1,0 +1,4 @@
+variant,file,mean_latency_ms,p95_latency_ms,size_kb,accuracy_pct,class2_recall_pct,energy_mj,cpu_pct_of_package,pareto_optimal
+M1 FP32,m1_fp32.tflite,0.0151,0.0188,5.19,100.0,100.0,0.014172,6.25,True
+M2 PTQ INT8,m2_ptq_int8.tflite,0.0183,0.0185,3.38,100.0,100.0,0.017148,6.25,True
+M3 Pruned+INT8,m3_pruned_int8.tflite,0.0454,0.0559,2.94,100.0,100.0,0.043219,6.35,True
